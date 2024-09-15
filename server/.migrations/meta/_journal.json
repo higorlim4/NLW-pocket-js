@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1726282896959,
+      "tag": "0000_mature_iron_fist",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726283240515,
+      "tag": "0001_same_gauntlet",
+      "breakpoints": true
+    }
+  ]
+}
